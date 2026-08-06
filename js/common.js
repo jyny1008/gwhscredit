@@ -55,7 +55,7 @@
     h.innerHTML =
       '<div class="container inner">' +
       '  <a class="brand" href="' + home + '">' +
-      '    <img src="assets/emblem.svg" alt="강원특별자치도교육청 상징">' +
+      '    <img src="assets/emblem.png" alt="강원특별자치도교육청 상징">' +
       '    <span class="t"><b>2026 고교학점제 박람회</b><span>강원특별자치도교육청</span></span>' +
       '  </a>' +
       '  <button class="menu-btn" id="menu-btn" aria-label="메뉴 열기">☰</button>' +
@@ -82,7 +82,7 @@
       '<div class="container">' +
       '  <div class="top">' +
       '    <div class="f-brand">' +
-      '      <img src="assets/emblem.svg" alt="">' +
+      '      <img src="assets/emblem.png" alt="">' +
       '      <div><b>강원특별자치도교육청</b><span>GANGWON STATE OFFICE OF EDUCATION</span></div>' +
       '    </div>' +
       '    <div class="f-center"><a href="' + esc(ft.centerUrl) + '" target="_blank" rel="noopener">🔗 ' + esc(ft.centerText) + '</a></div>' +

@@ -90,7 +90,7 @@
     ["assets/photos/expo-04.jpg", "학교별 부스 운영"],
     ["assets/photos/counsel-01.jpg", "1:1 진로·학업 설계 상담"],
     ["assets/photos/coaching-01.jpg", "개별화 학습 코칭"],
-    ["assets/photos/expo-05.jpg", "박람회 행사장"],
+    ["assets/photos/expo-03.jpg", "박람회 행사장"],
     ["assets/photos/expo-06.jpg", "학교별 부스 운영"],
     ["assets/photos/counsel-02.jpg", "1:1 진로·학업 설계 상담"],
     ["assets/photos/expo-07.jpg", "박람회 행사장"]
